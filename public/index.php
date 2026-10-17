@@ -27,7 +27,7 @@ $estudiante = cargar_estudiante();
     // Con print imprimo la fecha y hora actual en formato dd/mm/aaaa HH:mm
     print '<p>Fecha y hora actual: ' . date('d/m/Y H:i') . '</p>';
 
-    # Fin del bloque PHP, lo que sigue es solo HTML para cerrar la página
+    
     ?>
 </body>
 </html>
